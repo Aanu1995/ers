@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248697154782",
+    "firebase_url": "https://emegency-report-system.firebaseio.com",
+    "project_id": "emegency-report-system",
+    "storage_bucket": "emegency-report-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248697154782:android:ce971bcb0573289896a64f",
+        "android_client_info": {
+          "package_name": "com.example.ers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248697154782-ncjgf80nkko576pk6koo95hji40lj7ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ers",
+            "certificate_hash": "eaa5a6e01525ea178c267bfbcc5c979f5a37628e"
+          }
+        },
+        {
+          "client_id": "248697154782-jmjvipsuuh40s73e934904jo04rs2q6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD-dU0vk0CurmzMaWhOsP70xnEY_lZ9vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248697154782-jmjvipsuuh40s73e934904jo04rs2q6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
